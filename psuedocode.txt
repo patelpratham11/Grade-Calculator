@@ -1,0 +1,1 @@
+objective: provide a value for what i would need to average a certain value in a class
